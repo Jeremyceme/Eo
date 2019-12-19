@@ -4,29 +4,23 @@
 
 
 
-### Markdown
+### Experiencias:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+-2016 Trabaje para Bimbo como repartidor temporal 
 
-# Header 1
-## Header 2
-### Header 3
+### Estudios:
+-2004-2014 Escuela Stella Maris 
 
-- Bulleted
-- List
+-2014-2017 Colegio Nacional Mixto  ' Guayaquil ' 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+ 
+ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
 
 
 ###  Contact
