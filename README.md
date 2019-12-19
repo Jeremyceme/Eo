@@ -7,7 +7,9 @@
 ### Experiencias:
 
 
--2016 Trabaje para Bimbo como repartidor temporal 
+-2016 Trabaje para Bimbo como repartidor temporal .
+-2017 Trabaje para Tesalia como Ayudante de Oficina  temporal .
+-2018 Trabaje para EL ROSADO  como oficinista  temporal .
 
 ### Estudios:
 -2004-2014 Escuela Stella Maris 
